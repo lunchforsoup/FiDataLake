@@ -1,0 +1,19 @@
+# Ignore all text files
+*.txt
+
+# Ignore files related to API keys
+.env
+
+# Ignore files related to API keys
+env
+
+env-01
+env-02
+
+
+# Ignore files related to API keys
+.venv
+
+
+# Ignore SASS config files
+.sass-cache
